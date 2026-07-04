@@ -1,0 +1,34 @@
+{
+  "name": "github-identity-system",
+  "version": "1.0.0",
+  "private": true,
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "moomen03",
+  "description": "GitHub-native living engineering dashboard for a developer profile. Zero external data, zero external APIs — everything is derived from the GitHub REST/GraphQL API for this account.",
+  "keywords": [
+    "github-profile",
+    "github-actions",
+    "dashboard",
+    "svg",
+    "data-visualization",
+    "developer-identity",
+    "typescript"
+  ],
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "fetch": "node dist/scripts/fetch-data.js",
+    "identity": "node dist/scripts/identity-engine.js",
+    "render:svg": "node dist/scripts/svg/index.js",
+    "render:readme": "node dist/scripts/render-readme.js",
+    "pipeline": "npm run build && npm run fetch && npm run identity && npm run render:svg && npm run render:readme"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "@types/node": "^20.14.0"
+  },
+  "dependencies": {}
+}

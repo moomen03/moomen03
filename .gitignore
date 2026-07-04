@@ -1,0 +1,12 @@
+# Build + deps — never committed
+node_modules/
+dist/
+
+# Transient pipeline files — regenerated every run, not part of the output
+data/cache/raw-snapshot.json
+data/cache/identity.changed
+
+# NOTE: the following ARE committed on purpose (the bot pushes them):
+#   - README.md                 (the rendered dashboard)
+#   - assets/svg/*.svg          (the generated visuals the README embeds)
+#   - data/cache/identity.json  (previous-run state, needed for diff-gating)
