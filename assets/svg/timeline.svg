@@ -19,7 +19,7 @@
   <rect width="640" height="170" rx="10" fill="url(#panel-bg)" stroke="#30363d"/>
   <text x="20" y="26" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="13" font-weight="700" fill="#58a6ff" text-anchor="start">REPOSITORY TIMELINE</text>
   <rect x="20" y="32" width="152" height="2" rx="1" fill="url(#accent-grad)" opacity="0.7"/>
-  <text x="620" y="26" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="end">oldest 263d</text>
+  <text x="620" y="26" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="end">oldest 264d</text>
   <line x1="175" y1="38" x2="600" y2="38" stroke="#30363d"/>
   <g>
         <title>Jordan-Car-Price-Analysis-2023</title>
@@ -30,13 +30,13 @@
 <g>
         <title>rag-system-project</title>
         <text x="163" y="99" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="10" font-weight="400" fill="#c9d1d9" text-anchor="end">rag-system-project</text>
-        <rect x="428.70722433460077" y="86" width="158.3650190114068" height="10" rx="5" fill="#58a6ff"/>
-        <circle cx="587.0722433460076" cy="91" r="4" fill="#3fb950"/>
+        <rect x="429.3560606060606" y="86" width="156.155303030303" height="10" rx="5" fill="#58a6ff"/>
+        <circle cx="585.5113636363636" cy="91" r="4" fill="#3fb950"/>
       </g>
 <g>
         <title>moomen03</title>
         <text x="163" y="129" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="10" font-weight="400" fill="#c9d1d9" text-anchor="end">moomen03</text>
-        <rect x="569.2965779467681" y="116" width="30.70342205323186" height="10" rx="5" fill="#58a6ff"/>
+        <rect x="569.4128787878788" y="116" width="30.587121212121247" height="10" rx="5" fill="#58a6ff"/>
         <circle cx="600" cy="121" r="4" fill="#3fb950"/>
       </g>
 </svg>
