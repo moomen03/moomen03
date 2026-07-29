@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T09:10:58.963Z",
+  "generatedAt": "2026-07-29T14:32:59.336Z",
   "login": "moomen03",
   "displayName": null,
   "accountAgeInDays": 1625,
@@ -1282,13 +1282,13 @@
       },
       {
         "date": "2026-04-07",
-        "count": 1,
-        "intensity": 1
+        "count": 0,
+        "intensity": 0
       },
       {
         "date": "2026-04-08",
-        "count": 2,
-        "intensity": 1
+        "count": 0,
+        "intensity": 0
       },
       {
         "date": "2026-04-09",
@@ -1772,8 +1772,8 @@
       },
       {
         "date": "2026-07-14",
-        "count": 5,
-        "intensity": 3
+        "count": 0,
+        "intensity": 0
       },
       {
         "date": "2026-07-15",
@@ -1851,9 +1851,9 @@
         "intensity": 0
       }
     ],
-    "totalContributions": 21,
+    "totalContributions": 13,
     "currentStreak": 0,
-    "longestStreak": 2,
+    "longestStreak": 1,
     "busiestWeekday": "Sat",
     "busiestHourBucket": null
   },
@@ -1866,19 +1866,8 @@
         "stars": 0,
         "forks": 0,
         "sizeKB": 126,
-        "ageInDays": 24,
+        "ageInDays": 25,
         "lastPushDays": 0,
-        "topics": []
-      },
-      {
-        "id": "rag-system-project",
-        "name": "rag-system-project",
-        "language": "Python",
-        "stars": 0,
-        "forks": 0,
-        "sizeKB": 6399,
-        "ageInDays": 112,
-        "lastPushDays": 14,
         "topics": []
       },
       {
@@ -1903,13 +1892,6 @@
         ]
       },
       {
-        "id": "python",
-        "label": "Python",
-        "repoIds": [
-          "rag-system-project"
-        ]
-      },
-      {
         "id": "jupyter-notebook",
         "label": "Jupyter Notebook",
         "repoIds": [
@@ -1920,26 +1902,20 @@
   },
   "languageFingerprint": [
     {
-      "language": "Python",
-      "bytes": 72151,
-      "percentage": 48.1,
-      "repoCount": 1
-    },
-    {
       "language": "TypeScript",
       "bytes": 52159,
-      "percentage": 34.7,
+      "percentage": 66.9,
       "repoCount": 1
     },
     {
       "language": "Jupyter Notebook",
       "bytes": 25789,
-      "percentage": 17.2,
+      "percentage": 33.1,
       "repoCount": 1
     }
   ],
   "contributionDynamics": {
-    "totalCommitsLastYear": 21,
+    "totalCommitsLastYear": 13,
     "totalPRs": 0,
     "mergedPRs": 0,
     "prMergeRate": 0,
@@ -1956,13 +1932,6 @@
       "label": "TypeScript",
       "repoIds": [
         "moomen03"
-      ]
-    },
-    {
-      "id": "python",
-      "label": "Python",
-      "repoIds": [
-        "rag-system-project"
       ]
     },
     {

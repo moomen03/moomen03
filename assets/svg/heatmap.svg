@@ -19,7 +19,7 @@
   <rect width="802" height="168" rx="10" fill="url(#panel-bg)" stroke="#30363d"/>
   <text x="40" y="22" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="13" font-weight="700" fill="#58a6ff" text-anchor="start">ACTIVITY MAP</text>
   <rect x="40" y="28" width="96" height="2" rx="1" fill="url(#accent-grad)" opacity="0.7"/>
-  <text x="782" y="22" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="end">21 contributions · 0d streak</text>
+  <text x="782" y="22" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="end">13 contributions · 0d streak</text>
   <rect x="40" y="40" width="11" height="11" rx="2" fill="#161b22">
       <title>2025-07-27: 0 contributions</title>
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.000s" fill="freeze"/>
@@ -1036,12 +1036,12 @@
       <title>2026-04-06: 0 contributions</title>
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.012s" fill="freeze"/>
     </rect>
-<rect x="544" y="68" width="11" height="11" rx="2" fill="#0e4429">
-      <title>2026-04-07: 1 contribution</title>
+<rect x="544" y="68" width="11" height="11" rx="2" fill="#161b22">
+      <title>2026-04-07: 0 contributions</title>
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.016s" fill="freeze"/>
     </rect>
-<rect x="544" y="82" width="11" height="11" rx="2" fill="#0e4429">
-      <title>2026-04-08: 2 contributions</title>
+<rect x="544" y="82" width="11" height="11" rx="2" fill="#161b22">
+      <title>2026-04-08: 0 contributions</title>
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.020s" fill="freeze"/>
     </rect>
 <rect x="544" y="96" width="11" height="11" rx="2" fill="#161b22">
@@ -1428,8 +1428,8 @@
       <title>2026-07-13: 0 contributions</title>
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.404s" fill="freeze"/>
     </rect>
-<rect x="740" y="68" width="11" height="11" rx="2" fill="#26a641">
-      <title>2026-07-14: 5 contributions</title>
+<rect x="740" y="68" width="11" height="11" rx="2" fill="#161b22">
+      <title>2026-07-14: 0 contributions</title>
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.408s" fill="freeze"/>
     </rect>
 <rect x="740" y="82" width="11" height="11" rx="2" fill="#161b22">
@@ -1493,11 +1493,11 @@
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.468s" fill="freeze"/>
     </rect>
 
-  <circle cx="745.5" cy="73.5" r="5.5" fill="none" stroke="#58a6ff" stroke-width="1.5" filter="url(#glow)">
+  <circle cx="717.5" cy="129.5" r="5.5" fill="none" stroke="#58a6ff" stroke-width="1.5" filter="url(#glow)">
       <animate attributeName="r" values="5.5;11;5.5" dur="2.4s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0;1" dur="2.4s" repeatCount="indefinite"/>
     </circle>
   <rect x="40" y="148" width="10" height="10" rx="2" fill="#161b22"/><rect x="56" y="148" width="10" height="10" rx="2" fill="#0e4429"/><rect x="72" y="148" width="10" height="10" rx="2" fill="#006d32"/><rect x="88" y="148" width="10" height="10" rx="2" fill="#26a641"/><rect x="104" y="148" width="10" height="10" rx="2" fill="#39d353"/>
   <text x="128" y="156" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="9" font-weight="400" fill="#8b949e" text-anchor="start">less → more</text>
-  <text x="782" y="156" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="9" font-weight="400" fill="#8b949e" text-anchor="end">longest streak 2d · busiest Sat</text>
+  <text x="782" y="156" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="9" font-weight="400" fill="#8b949e" text-anchor="end">longest streak 1d · busiest Sat</text>
 </svg>
