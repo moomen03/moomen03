@@ -15,7 +15,7 @@
 
 Primary languages: Python (54%), TypeScript (30.8%), Jupyter Notebook (15.2%).
 
-Work spans 3 project clusters: Python, TypeScript, Jupyter Notebook.
+Work spans 3 project clusters: TypeScript, Python, Jupyter Notebook.
 
 Achievements: pair-extraordinaire.
 <!--PANEL:SUMMARY:END-->
@@ -57,7 +57,7 @@ Achievements: pair-extraordinaire.
 <sub>
 100% generated from this account's own GitHub data via GitHub Actions.<br/>
 No external services · no external data · no fake stats.<br/>
-Last updated 2026-08-02T13:58:37.847Z · pipeline in <code>.github/workflows/</code> + <code>scripts/</code>
+Last updated 2026-08-02T19:36:17.192Z · pipeline in <code>.github/workflows/</code> + <code>scripts/</code>
 </sub>
 
 <sub>© 2026 moomen03 · All Rights Reserved · <a href="./LICENSE">View-only, non-commercial license</a></sub>
