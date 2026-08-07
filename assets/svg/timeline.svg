@@ -19,7 +19,7 @@
   <rect width="640" height="200" rx="10" fill="url(#panel-bg)" stroke="#30363d"/>
   <text x="20" y="26" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="13" font-weight="700" fill="#58a6ff" text-anchor="start">REPOSITORY TIMELINE</text>
   <rect x="20" y="32" width="152" height="2" rx="1" fill="url(#accent-grad)" opacity="0.7"/>
-  <text x="620" y="26" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="end">oldest 277d</text>
+  <text x="620" y="26" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="end">oldest 278d</text>
   <line x1="175" y1="38" x2="600" y2="38" stroke="#30363d"/>
   <g>
         <title>Jordan-Car-Price-Analysis-2023</title>
@@ -30,19 +30,19 @@
 <g>
         <title>AI_powered_facial_recognition_attendance_system</title>
         <text x="163" y="99" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="10" font-weight="400" fill="#c9d1d9" text-anchor="end">AI_powered_facial_r…</text>
-        <rect x="483.39350180505414" y="86" width="115.07220216606504" height="10" rx="5" fill="#58a6ff"/>
-        <circle cx="598.4657039711192" cy="91" r="4" fill="#3fb950"/>
+        <rect x="483.8129496402878" y="86" width="113.12949640287775" height="10" rx="5" fill="#58a6ff"/>
+        <circle cx="596.9424460431655" cy="91" r="4" fill="#3fb950"/>
       </g>
 <g>
         <title>moomen03</title>
         <text x="163" y="129" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="10" font-weight="400" fill="#c9d1d9" text-anchor="end">moomen03</text>
-        <rect x="549.3682310469314" y="116" width="50.63176895306856" height="10" rx="5" fill="#58a6ff"/>
+        <rect x="549.5503597122301" y="116" width="50.44964028776985" height="10" rx="5" fill="#58a6ff"/>
         <circle cx="600" cy="121" r="4" fill="#3fb950"/>
       </g>
 <g>
         <title>meq</title>
         <text x="163" y="159" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="10" font-weight="400" fill="#c9d1d9" text-anchor="end">meq</text>
-        <rect x="592.3285198555957" y="146" width="2" height="10" rx="5" fill="#58a6ff"/>
-        <circle cx="593.8628158844765" cy="151" r="4" fill="#3fb950"/>
+        <rect x="590.8273381294964" y="146" width="2" height="10" rx="5" fill="#58a6ff"/>
+        <circle cx="592.3561151079136" cy="151" r="4" fill="#3fb950"/>
       </g>
 </svg>
