@@ -42,7 +42,7 @@
 <g>
         <title>meq</title>
         <text x="163" y="159" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="10" font-weight="400" fill="#c9d1d9" text-anchor="end">meq</text>
-        <rect x="589.336917562724" y="146" width="3.0465949820788865" height="10" rx="5" fill="#58a6ff"/>
-        <circle cx="592.3835125448029" cy="151" r="4" fill="#3fb950"/>
+        <rect x="589.336917562724" y="146" width="2" height="10" rx="5" fill="#58a6ff"/>
+        <circle cx="590.8602150537635" cy="151" r="4" fill="#3fb950"/>
       </g>
 </svg>
