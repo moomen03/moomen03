@@ -11,9 +11,9 @@
 </div>
 
 <!--PANEL:SUMMARY:START-->
-4 repositories tracked · 55 contributions in the last year · account age 54 months.
+3 repositories tracked · 55 contributions in the last year · account age 54 months.
 
-Primary languages: Python (49.6%), TypeScript (32.5%), Jupyter Notebook (17.9%).
+Primary languages: TypeScript (53.6%), Jupyter Notebook (26.5%), Python (19.9%).
 
 Work spans 3 project clusters: TypeScript, Python, Jupyter Notebook.
 
@@ -57,7 +57,7 @@ Achievements: pair-extraordinaire.
 <sub>
 100% generated from this account's own GitHub data via GitHub Actions.<br/>
 No external services · no external data · no fake stats.<br/>
-Last updated 2026-08-08T13:13:57.160Z · pipeline in <code>.github/workflows/</code> + <code>scripts/</code>
+Last updated 2026-08-08T19:00:40.379Z · pipeline in <code>.github/workflows/</code> + <code>scripts/</code>
 </sub>
 
 <sub>© 2026 moomen03 · All Rights Reserved · <a href="./LICENSE">View-only, non-commercial license</a></sub>
