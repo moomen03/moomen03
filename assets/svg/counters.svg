@@ -24,7 +24,7 @@
       </g>
 <g transform="translate(160,10)">
         <rect x="6" y="0" width="148" height="60" rx="8" fill="#161b22" stroke="#30363d"/>
-        <text x="80" y="29" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="20" font-weight="700" fill="#58a6ff" text-anchor="middle">55</text>
+        <text x="80" y="29" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="20" font-weight="700" fill="#58a6ff" text-anchor="middle">21</text>
         <text x="80" y="51" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="9" font-weight="400" fill="#8b949e" text-anchor="middle">CONTRIBUTIONS/YR</text>
       </g>
 <g transform="translate(320,10)">
@@ -34,7 +34,7 @@
       </g>
 <g transform="translate(480,10)">
         <rect x="6" y="0" width="148" height="60" rx="8" fill="#161b22" stroke="#30363d"/>
-        <text x="80" y="29" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="20" font-weight="700" fill="#58a6ff" text-anchor="middle">3d</text>
+        <text x="80" y="29" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="20" font-weight="700" fill="#58a6ff" text-anchor="middle">1d</text>
         <text x="80" y="51" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="9" font-weight="400" fill="#8b949e" text-anchor="middle">LONGEST STREAK</text>
       </g>
 <g transform="translate(0,80)">
