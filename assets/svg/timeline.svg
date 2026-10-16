@@ -19,7 +19,7 @@
   <rect width="640" height="170" rx="10" fill="url(#panel-bg)" stroke="#30363d"/>
   <text x="20" y="26" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="13" font-weight="700" fill="#58a6ff" text-anchor="start">REPOSITORY TIMELINE</text>
   <rect x="20" y="32" width="152" height="2" rx="1" fill="url(#accent-grad)" opacity="0.7"/>
-  <text x="620" y="26" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="end">oldest 348d</text>
+  <text x="620" y="26" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" font-weight="400" fill="#8b949e" text-anchor="end">oldest 349d</text>
   <line x1="175" y1="38" x2="600" y2="38" stroke="#30363d"/>
   <g>
         <title>Jordan-Car-Price-Analysis-2023</title>
@@ -30,13 +30,13 @@
 <g>
         <title>AI_powered_facial_recognition_attendance_system</title>
         <text x="163" y="99" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="10" font-weight="400" fill="#c9d1d9" text-anchor="end">AI_powered_facial_r…</text>
-        <rect x="420.4741379310345" y="86" width="91.59482758620692" height="10" rx="5" fill="#58a6ff"/>
-        <circle cx="512.0689655172414" cy="91" r="4" fill="#3fb950"/>
+        <rect x="420.9885386819484" y="86" width="90.11461318051579" height="10" rx="5" fill="#58a6ff"/>
+        <circle cx="511.1031518624642" cy="91" r="4" fill="#3fb950"/>
       </g>
 <g>
         <title>moomen03</title>
         <text x="163" y="129" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="10" font-weight="400" fill="#c9d1d9" text-anchor="end">moomen03</text>
-        <rect x="472.98850574712645" y="116" width="127.01149425287355" height="10" rx="5" fill="#58a6ff"/>
+        <rect x="473.352435530086" y="116" width="126.64756446991402" height="10" rx="5" fill="#58a6ff"/>
         <circle cx="600" cy="121" r="4" fill="#3fb950"/>
       </g>
 </svg>
